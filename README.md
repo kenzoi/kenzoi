@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Kenzo, a full-stack developer
 
-I studied at [@Codeworks](https://github.com/codeworks) and I love coding, Linux and pizza!
+I studied at [@Codeworks](https://github.com/codeworks) and I love :computer: coding, :penguin: Linux and :pizza: pizza!
+Previously I was an IT Support Technician and I like to solve problems.
 
 
 <!--
