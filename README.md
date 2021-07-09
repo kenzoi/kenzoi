@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Kenzo, a full-stack developer
+
+I studied at [@Codeworks](https://github.com/codeworks) and I love coding, Linux and pizza!
+
 
 <!--
 **kenzoi/kenzoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+                      
